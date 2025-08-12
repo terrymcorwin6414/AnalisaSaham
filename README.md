@@ -1,0 +1,2 @@
+# AnalisaSaham
+Analisa Saham
